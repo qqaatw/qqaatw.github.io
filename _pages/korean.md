@@ -6,6 +6,25 @@ redirect_from:
   - /korean.html
 ---
 
+## Verb
+
+### Want to do something
+
+Action verb stem고 싶다 - non 3rd person subject / Action verb stem고 싶어하다 - 3rd person subject
+
+
+**주앙, what do you want to drink?**
+- 주앙 씨, 무엇을 마시고 싶습니까?
+- 2nd person.
+
+**올리비아 wants to work**
+- 올리비아 씨는 일을 하고 싶어합니다
+- 3rd person
+
+**dont't eat pizza**
+- 피자를 먹고 싶지 않습니다 - formal negative
+- 피자를 안 먹고 싶숩나더 - casual negative
+
 ## Grammar
 
 ### Formal
@@ -78,3 +97,18 @@ Note
     1. 읽으시어요 - add 어요
     2. 읽으셔요 - combine 시 and 어 -> 셔
     3. 읽으세요 - convert to 세
+
+### Negative form
+
+Vstem지 않다 - formal / 안verb - casual
+
+
+**Like**
+- original: 좋아하다
+- Negative: 좋아하지 않다 or 안 좋아하다
+- formal
+    1. 좋아하지 않습니다 - formal
+    2. 안 좋아하습니다 - casual
+- informal
+    1. 좋아하지 않아요 - formal
+    2. 안 좋아해요 - casual
