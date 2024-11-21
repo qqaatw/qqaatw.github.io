@@ -112,3 +112,18 @@ Vstem지 않다 - formal / 안verb - casual
 - informal
     1. 좋아하지 않아요 - formal
     2. 안 좋아해요 - casual
+
+### Connecting two sentences
+
+(V1 subject & object) V1stem고 (V2 subject & object) V2
+
+**Home is big and clean**
+- original: 집이 큽니다. + 집이 깨끗합니다.
+- connected: 집이 크고 깨끗합니다.
+- note: the subjects are the same, we omit one.
+
+**I do homework, and my younger sibling does exercise.**
+
+- original: 저는 숙제를 합니다. + 동생은 운동을 합니다.
+- connected: 저는 숙제를 하고 동생은 운동을 합니다.
+- note: the subjects are not the same, we keep both.
