@@ -6,6 +6,13 @@ redirect_from:
   - /korean.html
 ---
 
+## Index
+
+1. [Vocabulary](/korean_vocab/)
+2. [Verb](#verb)
+3. [Grammar](#grammar)
+4. [Secret Sauce](#secret-sauce)
+
 ## Verb
 
 ### Want to do something
@@ -127,3 +134,7 @@ Vstem지 않다 - formal / 안verb - casual
 - original: 저는 숙제를 합니다. + 동생은 운동을 합니다.
 - connected: 저는 숙제를 하고 동생은 운동을 합니다.
 - note: the subjects are not the same, we keep both.
+
+## Secret Sauce
+
+Some bad words in Korean :)
