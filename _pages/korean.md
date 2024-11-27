@@ -135,6 +135,21 @@ Vstem지 않다 - formal / 안verb - casual
 - connected: 저는 숙제를 하고 동생은 운동을 합니다.
 - note: the subjects are not the same, we keep both.
 
+### With
+
+N과/와 같이 - formal / N하고 같이 - colloquial
+
+**I exercise with my younger sibling**
+
+- formal: 저는 동생과 같이 운동합니다
+- colloquial: 저는 동생하고 같이 운동합니다
+
+### 에
+
+1. Place에 있습니다/없습니다
+2. Place에 가다/오다
+3. Time에 + action verb
+
 ## Secret Sauce
 
 Some bad words in Korean :)
