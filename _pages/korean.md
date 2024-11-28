@@ -42,13 +42,13 @@ Note:
 
 ### Informal
 
-아요 - previous syllable is either ㅗ or ㅏ / 어요 - previous syllable is of others / 해요 - previous syllable is 하다
+아요 - previous vowel is either ㅗ or ㅏ / 어요 - previous vowel is of others / 해요 - previous vowel is 하다
 
 Note:
 
 ### Past Tense
 
-았 - previous syllable is either ㅗ or ㅏ / 었 - previous syllable is of others / 했 - previous syllable is 하다
+았 - previous vowel is either ㅗ or ㅏ / 었 - previous vowel is of others / 했 - previous vowel is 하다
 
 Note:
 
