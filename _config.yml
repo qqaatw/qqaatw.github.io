@@ -21,7 +21,7 @@ repository               : "qqaatw/qqaatw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "li-huai-lin.jpg"
   name             : "Li-Huai Allan Lin"
   pronouns         : # example: "she/her"  
   bio              : "PyTorch contributor and MSCS student at UC Irvine"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # li-huai-lin
+  linkedin         : li-huai-lin
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
