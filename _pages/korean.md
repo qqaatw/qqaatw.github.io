@@ -76,9 +76,9 @@ Note:
 - informal
     1. 운동했어요
 
-### Respect Subject:
+### Respect Subject
 
-시 - no 받침 / 으시 - with 받침
+Vstem시 - no 받침 / Vstem으시 - with 받침
 
 Note
 1. Shouldn’t be used with first person subject, e.g., 저, 우리
@@ -104,6 +104,22 @@ Note
     1. 읽으시어요 - add 어요
     2. 읽으셔요 - combine 시 and 어 -> 셔
     3. 읽으세요 - convert to 세
+
+### Respectful Command
+
+Action verb stem십시오 - no 받침 / Action verb stem으십시오 - with 받침 / Action verb stem지 마십시오 - negative
+
+**Please close the door**
+
+- original: 
+- respectful: 문을 닫으십시오
+- negative respectful: 문을 닫지 마십시오
+
+**Please call tomorrow**
+
+- original:
+- respectful: 내일 전화하십시오
+- negative respectful: 
 
 ### Negative form
 
@@ -149,6 +165,8 @@ N과/와 같이 - formal / N하고 같이 - colloquial
 1. Place에 있습니다/없습니다
 2. Place에 가다/오다
 3. Time에 + action verb
+4. Use 에서 to express the place where the action is happening.
+
 
 ## Secret Sauce
 
