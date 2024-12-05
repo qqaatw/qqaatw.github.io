@@ -111,15 +111,27 @@ Action verb stem십시오 - no 받침 / Action verb stem으십시오 - with 받�
 
 **Please close the door**
 
-- original: 
+- original: 문을 닫다
 - respectful: 문을 닫으십시오
 - negative respectful: 문을 닫지 마십시오
 
 **Please call tomorrow**
 
-- original:
+- original: 내일 전화하다
 - respectful: 내일 전화하십시오
-- negative respectful: 
+- negative respectful: 내일 전화하지 마십시오
+
+### Ask an opinion of the listener about the speaker’s action
+
+Action verb stemㄹ까요 - no 받침 / Action verb stem을까요 - with 받침
+
+**Which page of textbook should I read?**
+
+- (제가) 교과서 몇 페이지를 읽을까요?
+
+**A:I'm tired B: If so, should I drive?**
+
+- A: 피곤합니다. B: 그럼 제가 운전할까요?
 
 ### Negative form
 
