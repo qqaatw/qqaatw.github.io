@@ -22,15 +22,16 @@ Action verb stem고 싶다 - non 3rd person subject / Action verb stem고 싶어
 
 **주앙, what do you want to drink?**
 - 주앙 씨, 무엇을 마시고 싶습니까?
-- 2nd person.
+- implicit subject
 
 **올리비아 wants to work**
 - 올리비아 씨는 일을 하고 싶어합니다
 - 3rd person
 
-**dont't eat pizza**
+**dont't want to eat pizza**
 - 피자를 먹고 싶지 않습니다 - formal negative
 - 피자를 안 먹고 싶숩나더 - casual negative
+- implicit subject
 
 ## Grammar
 
@@ -183,3 +184,5 @@ N과/와 같이 - formal / N하고 같이 - colloquial
 ## Secret Sauce
 
 Some bad words in Korean :)
+
+https://ling-app.com/ko/korean-swear-words/
