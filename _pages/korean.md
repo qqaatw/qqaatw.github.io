@@ -173,13 +173,46 @@ N과/와 같이 - formal / N하고 같이 - colloquial
 - formal: 저는 동생과 같이 운동합니다
 - colloquial: 저는 동생하고 같이 운동합니다
 
-### 에
+### 에 (particle)
 
 1. Place에 있습니다/없습니다
 2. Place에 가다/오다
 3. Time에 + action verb
 4. Use 에서 to express the place where the action is happening.
 
+### `으` 불규칙 (`으` irregular)
+
+When a verb stem ends with `으` vowel, and the following character starts with a vowel, the `으` is removed. 
+
+See below examples:
+
+**be busy**
+
+- original: 비쁘다
+- informal:
+    1. 바ㅃ - the verb stem ends with `으`, and the following 아요 starts with a vowel, we remove `으`
+    2. 바ㅃ + 아요 - look at the character before ㅃ, we should use 아요 
+    3. 바빠요 - combine both
+
+**be pretty**
+
+- original: 예쁘다
+- informal:
+    1. 예ㅃ - the verb stem ends with `으`, and the following 어요 starts with a vowel, we remove `으`
+    2. 예ㅃ + 어요 - look at the character before ㅃ, we should use 어요
+    3. 예뻐요 - combine both
+
+**write/use**
+
+- original: 쓰다
+- informal:
+    1. ㅆ - the verb stem ends with `으`, and the following 어요 starts with a vowel, we remove `으`
+    2. ㅆ + 어요 - there is no character before ㅆ, we should use 어요
+    3. 써요 - combine both
+- past tense:
+    1. ㅆ - the verb stem ends with `으`, and the following 었다 starts with a vowel, we remove `으`
+    2. ㅆ + 었다 - there is no character before ㅆ, we should use 었다
+    3. 썼다 - combine both
 
 ## Secret Sauce
 
