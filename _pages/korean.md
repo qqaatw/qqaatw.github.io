@@ -108,19 +108,31 @@ Note
 
 ### Respectful Command
 
-Action verb stem십시오 - no 받침 / Action verb stem으십시오 - with 받침 / Action verb stem지 마십시오 - negative
+- formal: Action verb stem십시오 - no 받침 / Action verb stem으십시오 - with 받침 / Action verb stem지 마십시오 - negative
+- informal: Action verb stem세요 - no 받침 / Action verb stem으세요 - with 받침 / Action verb stem지 마세요 - negative
+- exception: When the verb stem ends with `ㄹ` consonant, `ㄹ` is eliminated. See the last example.
+- note: only used with action verb, i.e., not with adjective.
 
 **Please close the door**
 
 - original: 문을 닫다
-- respectful: 문을 닫으십시오
-- negative respectful: 문을 닫지 마십시오
+- formal respectful: 문을 닫으십시오
+- formal negative respectful: 문을 닫지 마십시오
+- informal respectful: 문을 닫으세요
 
 **Please call tomorrow**
 
 - original: 내일 전화하다
-- respectful: 내일 전화하십시오
-- negative respectful: 내일 전화하지 마십시오
+- formal respectful: 내일 전화하십시오
+- formal negative respectful: 내일 전화하지 마십시오
+- informal respectful: 내일 전화하세요
+
+**Make**
+
+- original: 만들다
+- formal respectful: 만드십시오
+- informal respectful: 만드세요
+- note: `ㄹ` irregular
 
 ### Ask an opinion of the listener about the speaker’s action
 
@@ -173,12 +185,17 @@ N과/와 같이 - formal / N하고 같이 - colloquial
 - formal: 저는 동생과 같이 운동합니다
 - colloquial: 저는 동생하고 같이 운동합니다
 
+### Also
+
+- N도
+- note: it cannot be used with three kinds of particles: 이/가, 은/는, and 을/를. When we see thses particles, we should replace them with `오`.
+
 ### 에 (particle)
 
 1. Place에 있습니다/없습니다
 2. Place에 가다/오다
 3. Time에 + action verb
-4. Use 에서 to express the place where the action is happening.
+4. Use place에서 to express the place where the action is happening.
 
 ### `으` 불규칙 (`으` irregular)
 
@@ -188,7 +205,7 @@ See below examples:
 
 **be busy**
 
-- original: 비쁘다
+- original: 바쁘다
 - informal:
     1. 바ㅃ - the verb stem ends with `으`, and the following 아요 starts with a vowel, we remove `으`
     2. 바ㅃ + 아요 - look at the character before ㅃ, we should use 아요 
