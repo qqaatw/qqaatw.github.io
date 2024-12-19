@@ -37,7 +37,7 @@ redirect_from:
 
 ### Position
 
-|in front of|behind|on|beneath|inside|outside|nearby|
-|-----------|------|--|-------|------|-------|------|
-|앞|뒤|위|아래|안|밖|옆|
+|in front of|behind|on|beneath|inside|outside|next to|between|opposite|
+|-----------|------|--|-------|------|-------|-------|-------|--------|
+|앞|뒤|위|밑/아래|안|밖|옆|사이|건너편/맞은편/반대편
 
