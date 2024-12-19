@@ -20,15 +20,15 @@ redirect_from:
 Action verb stem고 싶다 - non 3rd person subject / Action verb stem고 싶어하다 - 3rd person subject
 
 
-**주앙, what do you want to drink?**
+*주앙, what do you want to drink?*
 - 주앙 씨, 무엇을 마시고 싶습니까?
 - implicit subject
 
-**올리비아 wants to work**
+*올리비아 wants to work*
 - 올리비아 씨는 일을 하고 싶어합니다
 - 3rd person
 
-**dont't want to eat pizza**
+*dont't want to eat pizza*
 - 피자를 먹고 싶지 않습니다 - formal negative
 - 피자를 안 먹고 싶숩나더 - casual negative
 - implicit subject
@@ -53,7 +53,7 @@ Note:
 
 Note:
 
-**Watch / See**
+*Watch / See*
 - original: 보다
 - past tense: 보았다 -> 봤다
 - formal
@@ -61,7 +61,7 @@ Note:
 - informal
     1. 봤어요
 
-**Eat**
+*Eat*
 - original: 먹다
 - past tense: 먹었다
 - formal
@@ -69,7 +69,7 @@ Note:
 - informal
     1. 먹었어요
 
-**Exercise**
+*Exercise*
 - original: 운동하다
 - past tense: 운동했다
 - formal
@@ -85,7 +85,7 @@ Note
 1. Shouldn’t be used with first person subject, e.g., 저, 우리
 2. Use with respectful particles, nouns, and adjectives
 
-**Grandma cleans**
+*Grandma cleans*
 - original: 엄마가 청소하다
 - respectful: 엄마가 청소하시다 respectful to subject (add 시)
 - formal
@@ -96,7 +96,7 @@ Note
     2. 엄마가 청소하셔요 2. combine 시 and 어 -> 셔
     3. 엄마가 청소하세요 3. convert to 세
 
-**Read**
+*Read*
 - original: 읽다
 - respectful: 읽으시다 (add 으시)
 - formal
@@ -113,21 +113,21 @@ Note
 - exception: When the verb stem ends with `ㄹ` consonant, `ㄹ` is eliminated. See the last example.
 - note: only used with action verb, i.e., not with adjective.
 
-**Please close the door**
+*Please close the door*
 
 - original: 문을 닫다
 - formal respectful: 문을 닫으십시오
 - formal negative respectful: 문을 닫지 마십시오
 - informal respectful: 문을 닫으세요
 
-**Please call tomorrow**
+*Please call tomorrow*
 
 - original: 내일 전화하다
 - formal respectful: 내일 전화하십시오
 - formal negative respectful: 내일 전화하지 마십시오
 - informal respectful: 내일 전화하세요
 
-**Make**
+*Make*
 
 - original: 만들다
 - formal respectful: 만드십시오
@@ -138,11 +138,11 @@ Note
 
 Action verb stemㄹ까요 - no 받침 / Action verb stem을까요 - with 받침
 
-**Which page of textbook should I read?**
+*Which page of textbook should I read?*
 
 - (제가) 교과서 몇 페이지를 읽을까요?
 
-**A:I'm tired B: If so, should I drive?**
+*A:I'm tired B: If so, should I drive?*
 
 - A: 피곤합니다. B: 그럼 제가 운전할까요?
 
@@ -151,7 +151,7 @@ Action verb stemㄹ까요 - no 받침 / Action verb stem을까요 - with 받침
 Vstem지 않다 - formal / 안verb - casual
 
 
-**Like**
+*Like*
 - original: 좋아하다
 - Negative: 좋아하지 않다 or 안 좋아하다
 - formal
@@ -165,12 +165,12 @@ Vstem지 않다 - formal / 안verb - casual
 
 (V1 subject & object) V1stem고 (V2 subject & object) V2
 
-**Home is big and clean**
+*Home is big and clean*
 - original: 집이 큽니다. + 집이 깨끗합니다.
 - connected: 집이 크고 깨끗합니다.
 - note: the subjects are the same, we omit one.
 
-**I do homework, and my younger sibling does exercise.**
+*I do homework, and my younger sibling does exercise.*
 
 - original: 저는 숙제를 합니다. + 동생은 운동을 합니다.
 - connected: 저는 숙제를 하고 동생은 운동을 합니다.
@@ -180,7 +180,7 @@ Vstem지 않다 - formal / 안verb - casual
 
 N과/와 같이 - formal / N하고 같이 - colloquial
 
-**I exercise with my younger sibling**
+*I exercise with my younger sibling*
 
 - formal: 저는 동생과 같이 운동합니다
 - colloquial: 저는 동생하고 같이 운동합니다
@@ -203,7 +203,7 @@ When a verb stem ends with `으` vowel, and the following character starts with 
 
 See below examples:
 
-**be busy**
+*be busy*
 
 - original: 바쁘다
 - informal:
@@ -211,7 +211,7 @@ See below examples:
     2. 바ㅃ + 아요 - look at the character before ㅃ, we should use 아요 
     3. 바빠요 - combine both
 
-**be pretty**
+*be pretty*
 
 - original: 예쁘다
 - informal:
@@ -219,7 +219,7 @@ See below examples:
     2. 예ㅃ + 어요 - look at the character before ㅃ, we should use 어요
     3. 예뻐요 - combine both
 
-**write/use**
+*write/use*
 
 - original: 쓰다
 - informal:
