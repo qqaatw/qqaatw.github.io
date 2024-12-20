@@ -45,7 +45,7 @@ Note:
 
 아요 - previous vowel is either ㅗ or ㅏ / 어요 - previous vowel is of others / 해요 - previous vowel is 하다
 
-Note:
+Note: To be more casual, simply remove `요`. For example, 밥이 먹고 싶어요? -> 밥이 먹고 싶어?
 
 ### Past Tense
 
@@ -138,7 +138,7 @@ Note
 
 Action verb stemㄹ까요 - no 받침 / Action verb stem을까요 - with 받침
 
-*Which page of textbook should I read?*
+*Which page of the textbook should I read?*
 
 - (제가) 교과서 몇 페이지를 읽을까요?
 
@@ -188,7 +188,7 @@ N과/와 같이 - formal / N하고 같이 - colloquial
 ### Also
 
 - N도
-- note: it cannot be used with three kinds of particles: 이/가, 은/는, and 을/를. When we see thses particles, we should replace them with `오`.
+- note: it cannot be used with three kinds of particles: 이/가, 은/는, and 을/를. When we see these particles, we should replace them with `도`.
 
 ### 에 (particle)
 
