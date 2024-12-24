@@ -8,12 +8,18 @@ redirect_from:
 
 ## Index
 
-1. [Vocabulary](/korean_vocab/)
-2. [Verb](#verb)
-3. [Grammar](#grammar)
-4. [Secret Sauce](#secret-sauce)
+1. ~~[Phonetics](/korean_phonetics/)~~
+2. [Vocabulary](/korean_vocab/)
+3. [Verb](#verb)
+4. [Grammar](#grammar)
+5. [Secret Sauce](#secret-sauce)
 
 ## Verb
+
+### Is
+
+- formal: 입니다 - declarative / 입니까? - interrogative
+- informal: (subject) object에요 - no 받침 / (subject) object이에요 - with 받침
 
 ### Want to do something
 
@@ -50,6 +56,8 @@ Note: To be more casual, simply remove `요`. For example, 밥이 먹고 싶어�
 ### Past Tense
 
 았 - previous vowel is either ㅗ or ㅏ / 었 - previous vowel is of others / 했 - previous vowel is 하다
+
+던 - past habitual action
 
 Note:
 
@@ -161,6 +169,12 @@ Vstem지 않다 - formal / 안verb - casual
     1. 좋아하지 않아요 - formal
     2. 안 좋아해요 - casual
 
+### Can
+
+Vstemㄹ/을 수 있다
+
+https://www.90daykorean.com/can-in-korean/
+
 ### Connecting two sentences
 
 (V1 subject & object) V1stem고 (V2 subject & object) V2
@@ -190,12 +204,36 @@ N과/와 같이 - formal / N하고 같이 - colloquial
 - N도
 - note: it cannot be used with three kinds of particles: 이/가, 은/는, and 을/를. When we see these particles, we should replace them with `도`.
 
+### From...To...
+
+time부터 time까지 / place에서 place까지
+
+*from 6pm to 9pm*
+
+오후 여섯 시부터 오후 아홉 시까지
+
+*from home to the company*
+
+집에서 회사까지
+
 ### 에 (particle)
 
 1. Place에 있습니다/없습니다
 2. Place에 가다/오다
 3. Time에 + action verb
 4. Use place에서 to express the place where the action is happening.
+
+### `ㅂ` 불규칙 (`ㅂ` irregular)
+
+When a verb stem ends with `ㅂ` consonant, and the following character starts with a vowel, the `ㅂ` is removed and `우` is added.
+
+*thank*
+
+- original: 고맙다
+- informal:
+    1. 고마 - the verb stem ends with `ㅂ`, removed
+    2. 고마 + 우 + 어요 - looking at `우`, we should use 어요
+    3. 고마워요 - combine them
 
 ### `으` 불규칙 (`으` irregular)
 
@@ -208,7 +246,7 @@ See below examples:
 - original: 바쁘다
 - informal:
     1. 바ㅃ - the verb stem ends with `으`, and the following 아요 starts with a vowel, we remove `으`
-    2. 바ㅃ + 아요 - look at the character before ㅃ, we should use 아요 
+    2. 바ㅃ + 아요 - looking at the character before ㅃ, we should use 아요 
     3. 바빠요 - combine both
 
 *be pretty*
@@ -216,7 +254,7 @@ See below examples:
 - original: 예쁘다
 - informal:
     1. 예ㅃ - the verb stem ends with `으`, and the following 어요 starts with a vowel, we remove `으`
-    2. 예ㅃ + 어요 - look at the character before ㅃ, we should use 어요
+    2. 예ㅃ + 어요 - looking at the character before ㅃ, we should use 어요
     3. 예뻐요 - combine both
 
 *write/use*
