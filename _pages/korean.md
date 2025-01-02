@@ -19,7 +19,7 @@ redirect_from:
 ### Is
 
 - formal: 입니다 - declarative / 입니까? - interrogative
-- informal: (subject) object에요 - no 받침 / (subject) object이에요 - with 받침
+- informal: (subject) object예요 - no 받침 / (subject) object이에요 - with 받침
 
 ### Want to do something
 
@@ -84,6 +84,19 @@ Note:
     1. 운동했습니다
 - informal
     1. 운동했어요
+
+### Future Tense
+
+- formal: Vstemㄹ 것입니다 - no 받침 / Vstem을 것입니다 - with 받침
+- formal contraction: Vstemㄹ 겁니다 - no 받침 / Vstem을 겁니다 - with 받침
+- informal polite: Vstemㄹ 거예요 - no 받침 / Vstem을 거예요 - with 받침
+- informal: Vstemㄹ 거야 - no 받침 / Vstem을 거야 - with 받침
+
+*I will go*
+- original: 가다
+- future formal: 갈 것입니다
+- future informal polite: 갈 거예요
+- future informal: 갈 거야
 
 ### Respect Subject
 
@@ -175,6 +188,11 @@ Vstemㄹ/을 수 있다
 
 https://www.90daykorean.com/can-in-korean/
 
+### Because
+
+under construction...
+
+
 ### Connecting two sentences
 
 (V1 subject & object) V1stem고 (V2 subject & object) V2
@@ -189,6 +207,14 @@ https://www.90daykorean.com/can-in-korean/
 - original: 저는 숙제를 합니다. + 동생은 운동을 합니다.
 - connected: 저는 숙제를 하고 동생은 운동을 합니다.
 - note: the subjects are not the same, we keep both.
+
+### Plurality
+
+N들
+
+Note: It's more of indicating individuals in a collective group instead of plurality.
+
+*사람* is person, while *사람들* is people.
 
 ### With
 
@@ -274,3 +300,5 @@ See below examples:
 Some bad words in Korean :)
 
 https://ling-app.com/ko/korean-swear-words/
+
+씨발's conjugation - https://www.quora.com/What-does-the-Korean-Shibal-mean/answer/GenXKoreanMale?ch=15&oid=1477743656654173&share=c4626fdb&srid=hn3EIx&target_type=answer
