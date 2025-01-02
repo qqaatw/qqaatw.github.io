@@ -21,7 +21,7 @@ redirect_from:
 |--|--|--|--|--|--|--|--|--|--|--|--|
 |하나|둘|셋|넷|다섯|여섯|일곱|여덟|아홉|열|열하나|열둘|
 |o'clock|
-한 시 |두 시|세 시|네 시|다섯 시|여섯 시|일곱 시|여덟 시|아홉 시|열 시|열한 시|열두 시|
+|한 시|두 시|세 시|네 시|다섯 시|여섯 시|일곱 시|여덟 시|아홉 시|열 시|열한 시|열두 시|
 
 
 
@@ -41,6 +41,41 @@ redirect_from:
 |-----------|------|--|-------|------|-------|-------|-------|--------|
 |앞|뒤|위|밑/아래|안|밖|옆|사이|건너편/맞은편/반대편
 
+### Pronoun
+
+|you|mother|grandmother|friend|younger sister|younger brother|
+|---|------|-----------|------|--------------|---------------|
+|너|어머니|할머니|친구|여동생|남동생|
+
+|older sister of a female|older brother of a female|older sister of a male|older brother of a male|
+|------------------------|-------------------------|----------------------|-----------------------|
+|언니|오빠|누나|형|
+
+### Time
+
+|Korean|English|
+|------|-------|
+|어제|yesterday|
+|오늘|today|
+|내일(來日)|tomorrow|
+|매일(每日)|every day|
+|오래전(―前)|long time ago (time adv.)|
+|지금(只今)|now|
+|오전(午前)|A.M.|
+|오후(午後)|P.M.|
+|아침|morning/breakfast|
+|점심|noon/lunch|
+|저녁|evening/dinner|
+
 ### Random stuff
 
-뭐야 - What?
+|Korean|English|
+|------|-------|
+|뭐야|What?|
+|함께|together (adv.)|
+|발걸음|step, pace|
+|다시|again|
+|멈추다|stop|
+|서다|stand|
+|거리|street or distance (距離)|
+|느끼다|feel, experience|
