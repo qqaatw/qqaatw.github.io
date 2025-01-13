@@ -60,12 +60,14 @@ redirect_from:
 |내일(來日)|tomorrow|
 |매일(每日)|every day|
 |오래전(―前)|long time ago (time adv.)|
+|근대(近代)|modern times|
 |지금(只今)|now|
 |오전(午前)|A.M.|
 |오후(午後)|P.M.|
 |아침|morning/breakfast|
 |점심|noon/lunch|
 |저녁|evening/dinner|
+|다음|next time|
 
 ### Random stuff
 
@@ -77,5 +79,9 @@ redirect_from:
 |다시|again|
 |멈추다|stop|
 |서다|stand|
-|거리|street or distance (距離)|
+|거리(距離)|street or distance|
 |느끼다|feel, experience|
+|배고프다|hungry|
+|인녕(安寧)|peace, hello (인녕하다, with respectful command: 인녕하세요, i.e., please do well)|
+|잘하다|do well|
+|근데|but, however|
