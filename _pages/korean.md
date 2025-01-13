@@ -87,6 +87,7 @@ Note:
 
 ### Future Tense
 
+- Vstemㄹ 것 이다 - no 받침 / Vstem을 것 이다 - with 받침
 - formal: Vstemㄹ 것입니다 - no 받침 / Vstem을 것입니다 - with 받침
 - formal contraction: Vstemㄹ 겁니다 - no 받침 / Vstem을 겁니다 - with 받침
 - informal polite: Vstemㄹ 거예요 - no 받침 / Vstem을 거예요 - with 받침
@@ -97,6 +98,9 @@ Note:
 - future formal: 갈 것입니다
 - future informal polite: 갈 거예요
 - future informal: 갈 거야
+
+https://vivibin.com/tutorial/zh/grammar/neun-geo-ya/
+https://www.reddit.com/r/Korean/comments/2mscjx/q_the_difference_between_%E3%84%B9%EA%B1%B0%EC%95%BC_and_%E3%84%B4%EA%B1%B0%EC%95%BC/
 
 ### Respect Subject
 
@@ -155,6 +159,27 @@ Note
 - informal respectful: 만드세요
 - note: `ㄹ` irregular
 
+### Should we (with the listeners) ?
+
+Action verb stemㄹ까요? no 받침 / Action verb stem을까요? with 받침
+
+*What kind of food should we eat?*
+
+- formal: 무슨 음식을 먹을까요?
+- informal: 무슨 음식을 먹을까?
+
+### Let's
+
+- formal: Action verb stemㅂ시다 no 받침 / Action verb stem읍시다 with 받침
+- informal: Action verb stem자
+
+Note: usually used after ㄹ/을까요?
+
+*Let's eat Galbi soup*
+
+- formal: 갈비탕을 먹읍시다
+- informal: 갈비탕을 먹자
+
 ### Ask an opinion of the listener about the speaker’s action
 
 Action verb stemㄹ까요 - no 받침 / Action verb stem을까요 - with 받침
@@ -182,16 +207,31 @@ Vstem지 않다 - formal / 안verb - casual
     1. 좋아하지 않아요 - formal
     2. 안 좋아해요 - casual
 
-### Can
+### Kind
 
-Vstemㄹ/을 수 있다
+N + 무슨
+
+*what kind of exercise do you like?*
+
+- formal: 무슨 운동을 좋아하니다.
+- informal: 무슨 운동을 좋아해요?
+
+### Can / Can't
+
+- Can: Vstemㄹ/을 수 있다
+- Can't: Vstemㄹ/을 수 없다
 
 https://www.90daykorean.com/can-in-korean/
 
 ### Because
 
-under construction...
+- informal: Vstem아서/어서/여서
 
+*Because I don't have money, I won't have a trip*
+
+- informal: 돈이 없어서 여행을 할 수 없어요 - see the can/can't grammar as well.
+
+https://www.margaritakorean.com/single-post/2016/06/02/episode-23-%EC%84%9C-as-a-causeandeffect-particle
 
 ### Connecting two sentences
 
@@ -294,6 +334,18 @@ See below examples:
     1. ㅆ - the verb stem ends with `으`, and the following 었다 starts with a vowel, we remove `으`
     2. ㅆ + 었다 - there is no character before ㅆ, we should use 었다
     3. 썼다 - combine both
+
+### `ㄹ` 불규칙 (`ㄹ` irregular)
+
+When a verb stem ends with `ㄹ` consonent, and the following character starts with `ㄴ`,`ㅂ`, or `ㅅ`, the `ㄹ` is removed.
+
+*to be far*
+- original: 멀다
+- formal:
+    1. 머 - the verb stem ends with `ㄹ`, and the following 습니다 starts with `ㅅ`, we remove `ㄹ`.
+    2. 멉니다 - since `ㄹ` was removed, we should use ㅂ니다 instead.
+- informal:
+    1. 멀어요 - the verb stem ends with `ㄹ`, but the following 어요 doesn't start with `ㄴ`,`ㅂ`, or `ㅅ`, we are done.
 
 ## Secret Sauce
 
