@@ -55,6 +55,13 @@ redirect_from:
 
 |Korean|English|
 |------|-------|
+|월요일(月曜日)|Monday|
+|화요일(火曜日)|Tuesday|
+|수요일(水曜日)|Wednesday|
+|목요일(木曜日)|Thursday|
+|금요일(金曜日)|Friday|
+|토요일(土曜日)|Saturday|
+|일요일(日曜日)|Sunday|
 |어제|yesterday|
 |오늘|today|
 |내일(來日)|tomorrow|

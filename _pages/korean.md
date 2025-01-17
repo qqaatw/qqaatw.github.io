@@ -51,7 +51,7 @@ Note:
 
 아요 - previous vowel is either ㅗ or ㅏ / 어요 - previous vowel is of others / 해요 - previous vowel is 하다
 
-Note: To be more casual, simply remove `요`. For example, 밥이 먹고 싶어요? -> 밥이 먹고 싶어?
+Note: To be more casual, simply remove `요`. For example, 밥을 먹고 싶어요? -> 밥을 먹고 싶어?
 
 ### Past Tense
 
@@ -65,7 +65,7 @@ Note:
 - original: 보다
 - past tense: 보았다 -> 봤다
 - formal
-    1. 봤습니다 
+    1. 봤습니다
 - informal
     1. 봤어요
 
@@ -346,6 +346,16 @@ When a verb stem ends with `ㄹ` consonent, and the following character starts w
     2. 멉니다 - since `ㄹ` was removed, we should use ㅂ니다 instead.
 - informal:
     1. 멀어요 - the verb stem ends with `ㄹ`, but the following 어요 doesn't start with `ㄴ`,`ㅂ`, or `ㅅ`, we are done.
+
+### `ㄷ` 불규칙 (`ㄷ` irregular)
+
+When a verb stem ends with `ㄷ` consonent, and the following character starts with a vowel, we replace `ㄷ` with `ㄹ`.
+
+*listen*
+- original: 듣다
+- informal: 
+    1. 들 - the verb stem ends with `ㄷ` consonent, and the following 어요 starts with a vowel, we replace `ㄷ` with `ㄹ`.
+    2. 들어요
 
 ## Secret Sauce
 
