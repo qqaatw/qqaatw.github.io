@@ -102,6 +102,32 @@ Note:
 https://vivibin.com/tutorial/zh/grammar/neun-geo-ya/
 https://www.reddit.com/r/Korean/comments/2mscjx/q_the_difference_between_%E3%84%B9%EA%B1%B0%EC%95%BC_and_%E3%84%B4%EA%B1%B0%EC%95%BC/
 
+### Verb / Adjective modifier
+
+- past: Vstemㄴ/은 + N
+- present: Vstem는 + N
+- future: Vstemㄹ/을 + N
+- adjective: Vadjstemㄴ/은 + N
+- note: progressive tense applies
+
+*A person who watched that movie (past)*
+그 영화를 본 사람
+
+*The woman I love (present)*
+내가 사랑하는 여자
+
+*The man reading a book (present progressive)*
+책을 읽는 남자
+
+*The time that I’ll wake up (future)*
+일어날 시간
+
+*A small baby (adjective)*
+작은 아기
+
+https://explorekorean.net/beginner2-lesson12/
+
+
 ### Respect Subject
 
 Vstem시 - no 받침 / Vstem으시 - with 받침
@@ -130,6 +156,13 @@ Note
     1. 읽으시어요 - add 어요
     2. 읽으셔요 - combine 시 and 어 -> 셔
     3. 읽으세요 - convert to 세
+
+*Did you eat?*
+- original: 식사하다?
+- past tense: 식시했다
+- respectful: 식사하셨다?
+- formatl: 식사하셨습니까?
+- informal: 식사하셨어요?
 
 ### Respectful Command
 
@@ -223,15 +256,46 @@ N + 무슨
 
 https://www.90daykorean.com/can-in-korean/
 
-### Because
+### So / therefore
 
+- original: 그래서
 - informal: Vstem아서/어서/여서
+- note: the informal endings are shortened forms of 그래서, which means so / therefore.
 
 *Because I don't have money, I won't have a trip*
 
-- informal: 돈이 없어서 여행을 할 수 없어요 - see the can/can't grammar as well.
+- informal: 돈이 없어요. 그래서 여행을 할 수 없어요
+- informal shortened: 돈이 없어서 여행을 할 수 없어요 - see the can/can't grammar as well.
 
+https://www.goodjobkorean.com/blog/ending-in-korean-grammar-and-so-or-because
 https://www.margaritakorean.com/single-post/2016/06/02/episode-23-%EC%84%9C-as-a-causeandeffect-particle
+
+### If / when
+
+Vstem면 - no 받침 / Vstem으면 - with 받침
+
+*When I arrive at home, I will do laundry*
+
+집에 도착하면 빨래를 할 거예요
+
+https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-43/?amp#431
+
+### Even though / but
+
+Vstem지만
+
+*Although I don't eat veggies, (I) don't have constipation.*
+저는 야채를 먹지 않지만 변비가 없어요.
+
+### Providing context
+
+- Action Vstem는데 (also 있다 없다 and past tense Vstem)
+- Descriptive Vstemㄴ데 - no 받침 / Descriptive Vstem은데 - with 받침
+
+*It's noisy outside; what's going on?*
+
+밖이 시끄러운에 무슨 일 있나?
+
 
 ### Connecting two sentences
 
