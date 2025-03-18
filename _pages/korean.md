@@ -111,18 +111,23 @@ https://www.reddit.com/r/Korean/comments/2mscjx/q_the_difference_between_%E3%84%
 - note: progressive tense applies
 
 *A person who watched that movie (past)*
+
 그 영화를 본 사람
 
 *The woman I love (present)*
+
 내가 사랑하는 여자
 
 *The man reading a book (present progressive)*
+
 책을 읽는 남자
 
 *The time that I’ll wake up (future)*
+
 일어날 시간
 
 *A small baby (adjective)*
+
 작은 아기
 
 https://explorekorean.net/beginner2-lesson12/
@@ -242,7 +247,7 @@ Vstem지 않다 - formal / 안verb - casual
 
 ### Kind
 
-N + 무슨
+무슨 + N
 
 *what kind of exercise do you like?*
 
@@ -270,6 +275,10 @@ https://www.90daykorean.com/can-in-korean/
 https://www.goodjobkorean.com/blog/ending-in-korean-grammar-and-so-or-because
 https://www.margaritakorean.com/single-post/2016/06/02/episode-23-%EC%84%9C-as-a-causeandeffect-particle
 
+### 거든
+
+https://www.topikguide.com/%EA%B1%B0%EB%93%A0-korean-grammar/
+
 ### If / when
 
 Vstem면 - no 받침 / Vstem으면 - with 받침
@@ -280,12 +289,21 @@ Vstem면 - no 받침 / Vstem으면 - with 받침
 
 https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-43/?amp#431
 
-### Even though / but
+### Although / Even though
 
 Vstem지만
 
 *Although I don't eat veggies, (I) don't have constipation.*
+
 저는 야채를 먹지 않지만 변비가 없어요.
+
+### Only
+
+N만
+
+*I only watched movie at home yesterday*
+
+어제는 집에서 영화만 봤어요
 
 ### Providing context
 
@@ -295,6 +313,19 @@ Vstem지만
 *It's noisy outside; what's going on?*
 
 밖이 시끄러운에 무슨 일 있나?
+
+### Quoting
+
+Vstemㄴ다고 - no 받침 / Vstem는다고 - with 받침
+Vadjstem다고
+
+https://www.topikguide.com/v%E3%84%B4-%EB%8A%94%EB%8B%A4%EA%B3%A0-a%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8B%A4-korean-grammar/
+
+### Please do something for me
+
+아/어/해 주세요
+
+https://www.reddit.com/r/Korean/s/Cl5CykxOYq
 
 
 ### Connecting two sentences

@@ -21,8 +21,10 @@ redirect_from:
 |반갑다|glad, happy, pleasant, welcome (반가워요 nice to meet you)|
 |다니다|go|
 |또|again (adverb)|
+|자꾸|repeatedly|
 |너무|too, so, very|
 |정말(正一)|really|
+|쳐다보|look|
 
 ## Adjective Verb
 
@@ -128,6 +130,9 @@ redirect_from:
 |한번|at some time|
 |도착(到着)|arrival|
 |빨래|washing, laundry|
+|연인|lover|
+|밤새|all night long|
+|소리|sound, noice|
 
 
 ## Idiom
@@ -136,4 +141,4 @@ redirect_from:
 |------|-------|
 |잠시(暫時)만요|wait a momnet|
 |오랜만이에요|long time no see|
-|법은 먹고 다니냐|
+|밥은 먹고 다니냐|
