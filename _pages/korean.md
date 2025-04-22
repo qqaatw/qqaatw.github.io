@@ -55,9 +55,11 @@ Note: To be more casual, simply remove `요`. For example, 밥을 먹고 싶어�
 
 ### Past Tense
 
-았 - previous vowel is either ㅗ or ㅏ / 었 - previous vowel is of others / 했 - previous vowel is 하다
+Vstem았 - previous vowel is either ㅗ or ㅏ / Vstem었 - previous vowel is of others / 했 - previous vowel is 하다
 
-던 - past habitual action
+Vstem던 - past habitual action
+
+https://www.topikguide.com/v-adj-%EB%8D%98-vs-v-adj-%EC%95%98-%EC%97%88%EB%8D%98-korean-grammar/
 
 Note:
 
@@ -99,7 +101,6 @@ Note:
 - future informal polite: 갈 거예요
 - future informal: 갈 거야
 
-https://vivibin.com/tutorial/zh/grammar/neun-geo-ya/
 https://www.reddit.com/r/Korean/comments/2mscjx/q_the_difference_between_%E3%84%B9%EA%B1%B0%EC%95%BC_and_%E3%84%B4%EA%B1%B0%EC%95%BC/
 
 ### Verb / Adjective modifier
@@ -131,6 +132,16 @@ https://www.reddit.com/r/Korean/comments/2mscjx/q_the_difference_between_%E3%84%
 작은 아기
 
 https://explorekorean.net/beginner2-lesson12/
+
+
+### Future promise
+
+- formal: Vstem겠습니다
+- informal: Vstemㄹ게요 - no 받침 / Vstem을게요 - with 받침
+
+*On arrival, will call*
+
+도착하면 전화할게요
 
 
 ### Respect Subject
@@ -199,7 +210,7 @@ Note
 
 ### Should we (with the listeners) ?
 
-Action verb stemㄹ까요? no 받침 / Action verb stem을까요? with 받침
+Action verb stemㄹ까(요)? no 받침 / Action verb stem을까(요)? with 받침
 
 *What kind of food should we eat?*
 
@@ -287,7 +298,15 @@ Vstem면 - no 받침 / Vstem으면 - with 받침
 
 집에 도착하면 빨래를 할 거예요
 
+Note: if the verb ends with `ㄹ`, use 면.
+
 https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-43/?amp#431
+
+### While doing something
+
+Vstem면서 - no 받침 / Vstem으면서 - with 받침
+
+https://www.topikguide.com/verb-%EC%9C%BC%EB%A9%B4%EC%84%9C-korean-grammar
 
 ### Although / Even though
 
@@ -321,6 +340,14 @@ Vadjstem다고
 
 https://www.topikguide.com/v%E3%84%B4-%EB%8A%94%EB%8B%A4%EA%B3%A0-a%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8B%A4-korean-grammar/
 
+N라는 - no 받침 / N이라는 - with 받침
+
+*A band named TXT*
+
+TXT라는 밴드
+
+https://a-pop-of-korean.tumblr.com/post/649533600302317568/level-6-lesson-9-%EC%9D%B4%EB%9D%BC%EB%8A%94
+
 ### Please do something for me
 
 아/어/해 주세요
@@ -328,9 +355,25 @@ https://www.topikguide.com/v%E3%84%B4-%EB%8A%94%EB%8B%A4%EA%B3%A0-a%EB%8B%A4%EA%
 https://www.reddit.com/r/Korean/s/Cl5CykxOYq
 
 
+### In order to...
+
+Vstem러 - no 받침 / Vstem으러 - with 받침
+
+*In order to study, I go to the library*
+
+- formal: 저는 공부하러 도서관에 갑니다
+- informal: 저는 공부하러 도서관에 가요
+
+*In order to swim, I go to the beach*
+
+- informal: 저는 수영하러 바다에 가요
+
+
 ### Connecting two sentences
 
-(V1 subject & object) V1stem고 (V2 subject & object) V2
+(V1 subject & object) V1stem고 (나서) (V2 subject & object) V2
+
+Note: if 나서 is added, it means the former sentence is done first and then the latter sentence.
 
 *Home is big and clean*
 - original: 집이 큽니다. + 집이 깨끗합니다.
@@ -364,6 +407,21 @@ N과/와 같이 - formal / N하고 같이 - colloquial
 
 - N도
 - note: it cannot be used with three kinds of particles: 이/가, 은/는, and 을/를. When we see these particles, we should replace them with `도`.
+
+### worried about
+
+Vstemㄹ까 보다 - no 받침 / Vstem을까 보다 - with 받침
+N일까 보다
+
+*I'm afraid it's you*
+
+- informal: 너일까 봐
+
+https://www.topikguide.com/a-v-n-%EC%9C%BC%E3%84%B9%EA%B9%8C-%EB%B3%B4%EB%8B%A4-korean-grammar/
+
+### 으로/로
+
+https://www.goodjobkorean.com/blog/-%EB%A1%9C%2F-%EC%9C%BC%EB%A1%9C%20in%20Korean%20grammar:%20indicating%20particle%20(e-g-%20with,%20by,%20as,%20for,%20to)
 
 ### From...To...
 
@@ -451,6 +509,10 @@ When a verb stem ends with `ㄷ` consonent, and the following character starts w
 - informal: 
     1. 들 - the verb stem ends with `ㄷ` consonent, and the following 어요 starts with a vowel, we replace `ㄷ` with `ㄹ`.
     2. 들어요
+
+### `르` 불규칙 (`르` irregular)
+
+...
 
 ## Secret Sauce
 

@@ -20,11 +20,32 @@ redirect_from:
 |모르다|don't know|
 |반갑다|glad, happy, pleasant, welcome (반가워요 nice to meet you)|
 |다니다|go|
-|또|again (adverb)|
+|또|again (adverb), also, too|
 |자꾸|repeatedly|
 |너무|too, so, very|
 |정말(正一)|really|
 |쳐다보|look|
+|느끼다|feel, experience|
+|이곳|here, this place|
+|같아|same|
+|꼭|certainly, definitely|
+|바라보다|look at, watch|
+|더|more (adverb)|
+|자꾸|repeatedly|
+|돌아보다|look back (at)|
+|우연히|by chance, by accident|
+|역시|also, as well|
+|처럼|like something (것처럼)|
+|아직|still, so far|
+|되다|become|
+|이미|already|
+|떠오르다|rise, emerge|
+|어쨌든|anyway|
+|그리고|and|
+|그만하다|stop, quit|
+|전념하다(專念)|focus on|
+|열심히|hard, diligently|
+|외우다|memorize, learn|
 
 ## Adjective Verb
 
@@ -35,6 +56,12 @@ redirect_from:
 |사랑스럽다|lovable, adorable, endearing|
 
 ## Noun
+
+|Korean|English|
+|------|-------|
+|활동(活動)|activity|
+|경험(經驗)|experience|
+|우여곡절(迂餘曲折)|complications, vicissitudes, twists and turns, (informal) ups and downs|
 
 ### Numbering
 
@@ -103,6 +130,11 @@ redirect_from:
 |점심|noon/lunch|
 |저녁|evening/dinner|
 |다음|next time|
+|며칠|a few days|
+|전|previously|
+|마지막|the last|
+|그때|the moment|
+|갑자기|suddenly|
 
 ### Random stuff
 
@@ -132,8 +164,15 @@ redirect_from:
 |빨래|washing, laundry|
 |연인|lover|
 |밤새|all night long|
-|소리|sound, noice|
-
+|소리|sound, noise|
+|감정(感情)|emotion|
+|그런|such, like, that kind of|
+|장애물|obstacle|
+|돌아가다|go back쳐, return|
+|지하철(地下鐵)|subway|
+|팔다|sell|
+|사귀다|go out, date|
+|놀다|play|
 
 ## Idiom
 
