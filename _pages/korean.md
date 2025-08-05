@@ -58,6 +58,8 @@ Note: To be more casual, simply remove `요`. For example, 밥을 먹고 싶어�
 Vstem았 - previous vowel is either ㅗ or ㅏ / Vstem었 - previous vowel is of others / 했 - previous vowel is 하다
 
 Vstem던 - past habitual action
+Vstem(았/었)던 - past habitual action and already finished
+더라
 
 https://www.topikguide.com/v-adj-%EB%8D%98-vs-v-adj-%EC%95%98-%EC%97%88%EB%8D%98-korean-grammar/
 
@@ -286,6 +288,10 @@ https://www.90daykorean.com/can-in-korean/
 https://www.goodjobkorean.com/blog/ending-in-korean-grammar-and-so-or-because
 https://www.margaritakorean.com/single-post/2016/06/02/episode-23-%EC%84%9C-as-a-causeandeffect-particle
 
+### Because
+
+니까
+
 ### 거든
 
 https://www.topikguide.com/%EA%B1%B0%EB%93%A0-korean-grammar/
@@ -307,6 +313,14 @@ https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2
 Vstem면서 - no 받침 / Vstem으면서 - with 받침
 
 https://www.topikguide.com/verb-%EC%9C%BC%EB%A9%B4%EC%84%9C-korean-grammar
+
+### when (at the moment)
+
+Vstemㄹ 때 - no 받침 / Vstem을 때 - with 받침
+
+*When you go to Korea, can I go together with you?*
+
+한국에 갈 때 저도 같이 가도 돼요?
 
 ### Although / Even though
 
@@ -408,16 +422,31 @@ N과/와 같이 - formal / N하고 같이 - colloquial
 - N도
 - note: it cannot be used with three kinds of particles: 이/가, 은/는, and 을/를. When we see these particles, we should replace them with `도`.
 
-### worried about
+### Worried about / afraid
 
 Vstemㄹ까 보다 - no 받침 / Vstem을까 보다 - with 받침
 N일까 보다
 
 *I'm afraid it's you*
 
-- informal: 너일까 봐
+- informal: 너일까 봐요
 
 https://www.topikguide.com/a-v-n-%EC%9C%BC%E3%84%B9%EA%B9%8C-%EB%B3%B4%EB%8B%A4-korean-grammar/
+
+### Seems like, possible
+
+것 같다
+
+*I think it's raining*
+
+informal: 비 오는 것 같아요
+
+### Indicate the lister or another person is supposed to do something
+
+Vstem아/어/해야지다
+
+*I have an exam tomorrow, so I have to study today.*
+내일이 시험이니 오늘은 공부를 해야지요
 
 ### 으로/로
 

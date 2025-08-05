@@ -173,6 +173,16 @@ redirect_from:
 |팔다|sell|
 |사귀다|go out, date|
 |놀다|play|
+|필요(必要)|need, necessity|
+|생각(想覺)|thought, idea|
+|계속(繼續)|continuation, continuously|
+|아리다|inform|
+|댓글|comment|
+|넘어지다|fall down|
+|항상|always|
+|긴장(緊張)|nervous|
+|잔액(殘額)|balance, remaining money|
+|부족(不足)|shortage|
 
 ## Idiom
 
