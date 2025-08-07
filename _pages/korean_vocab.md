@@ -30,6 +30,7 @@ redirect_from:
 |같아|same|
 |꼭|certainly, definitely|
 |바라보다|look at, watch|
+|바라다|hope|
 |더|more (adverb)|
 |자꾸|repeatedly|
 |돌아보다|look back (at)|
@@ -46,6 +47,18 @@ redirect_from:
 |전념하다(專念)|focus on|
 |열심히|hard, diligently|
 |외우다|memorize, learn|
+|믿다|to believe|
+|지키다|to protect|
+|오직|only, solely|
+|꿈꾸다|to dream|
+|잊다|to forget|
+|안다|to embrace/hug|
+|안기다|to be embraced/hugged|
+|잃다|to lose|
+|변하다|to change|
+|힘들다|to be difficult|
+|달다|sweet|
+
 
 ## Adjective Verb
 
@@ -135,6 +148,8 @@ redirect_from:
 |마지막|the last|
 |그때|the moment|
 |갑자기|suddenly|
+|언제|when|
+|밤|night|
 
 ### Random stuff
 
@@ -183,6 +198,14 @@ redirect_from:
 |긴장(緊張)|nervous|
 |잔액(殘額)|balance, remaining money|
 |부족(不足)|shortage|
+|화려(華麗)|splendid & beautiful|
+|걱정(擔憂)|worry|
+|품|arm|
+|미소(微笑)|smile|
+|변(變)|change|
+|후회(後悔)|regretting|
+|그늘|shade, shelter|
+|날|day|
 
 ## Idiom
 

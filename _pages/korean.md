@@ -338,6 +338,10 @@ N만
 
 어제는 집에서 영화만 봤어요
 
+### All / every
+
+모든 + N
+
 ### Providing context
 
 - Action Vstem는데 (also 있다 없다 and past tense Vstem)
@@ -448,7 +452,11 @@ Vstem아/어/해야지다
 *I have an exam tomorrow, so I have to study today.*
 내일이 시험이니 오늘은 공부를 해야지요
 
-### 으로/로
+### with / by / as / for / to
+
+N로 - no 받침 / N으로 - with 받침
+
+Used to indicate direction, method, cause, and status.
 
 https://www.goodjobkorean.com/blog/-%EB%A1%9C%2F-%EC%9C%BC%EB%A1%9C%20in%20Korean%20grammar:%20indicating%20particle%20(e-g-%20with,%20by,%20as,%20for,%20to)
 
