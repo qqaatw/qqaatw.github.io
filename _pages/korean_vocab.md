@@ -58,7 +58,13 @@ redirect_from:
 |변하다|to change|
 |힘들다|to be difficult|
 |달다|sweet|
-
+|자다|sleep|
+|데리다|pick|
+|확인하다|to confirm|
+|서중하다(所重)|to be precious|
+|얼마나|how much, to what extent (adverb)|
+|모든|every, all (adverb)|
+|지나다|to pass|
 
 ## Adjective Verb
 
@@ -150,6 +156,15 @@ redirect_from:
 |갑자기|suddenly|
 |언제|when|
 |밤|night|
+|전에|before|
+|뒤에/후에|after/in|
+|바로|right now|
+
+### Classifier (counting words)
+
+|Korean|English|
+|------|-------|
+|잔(盞)|cup/glass|
 
 ### Random stuff
 
@@ -206,6 +221,13 @@ redirect_from:
 |후회(後悔)|regretting|
 |그늘|shade, shelter|
 |날|day|
+|하늘|sky|
+|별|star|
+|스트레칭|stretch|
+|연락(聯絡)|contact|
+|범인(犯人)|criminal|
+|도망(逃亡)|flee|
+|세월(歲月)|hard to explain lol|
 
 ## Idiom
 
@@ -213,4 +235,4 @@ redirect_from:
 |------|-------|
 |잠시(暫時)만요|wait a momnet|
 |오랜만이에요|long time no see|
-|밥은 먹고 다니냐|
+|밥은 먹고 다니냐| |

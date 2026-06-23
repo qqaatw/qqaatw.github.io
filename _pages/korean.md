@@ -61,6 +61,9 @@ Vstem던 - past habitual action
 Vstem(았/었)던 - past habitual action and already finished
 더라
 
+
+https://www.90daykorean.com/korean-past-tense/
+
 https://www.topikguide.com/v-adj-%EB%8D%98-vs-v-adj-%EC%95%98-%EC%97%88%EB%8D%98-korean-grammar/
 
 Note:
@@ -209,6 +212,10 @@ Note
 - formal respectful: 만드십시오
 - informal respectful: 만드세요
 - note: `ㄹ` irregular
+
+### Casual please
+
+좀 + V
 
 ### Should we (with the listeners) ?
 
